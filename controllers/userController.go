@@ -1,17 +1,33 @@
 package controllers
 
-func HashPassword()
+import "fmt"
 
-func VerifyPassword()
+func HashPassword() {
+	// todo: Write the controllers next
+	fmt.Println("Controller function")
+}
+
+func VerifyPassword() {
+	// todo: Write the controllers next
+	fmt.Println("Controller function")
+}
 
 func SignUp() {
-
+	// todo: Write the controllers next
+	fmt.Println("Controller function")
 }
 
 func Login() {
-
+	// todo: Write the controllers next
+	fmt.Println("Controller function")
 }
 
-func GetUsers()
+func GetUsers() {
+	// todo: Write the controllers next
+	fmt.Println("Controller function")
+}
 
-func GetUser()
+func GetUser() {
+	// todo: Write the controllers next
+	fmt.Println("Controller function")
+}
